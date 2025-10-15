@@ -63,4 +63,13 @@ Tenho paixão por resolver problemas, aprender novas tecnologias e ajudar pessoa
 
 ---
 
+## 📬 Onde me encontrar
+
+Se quiser trocar uma ideia sobre tecnologia, projetos, ensino ou até nostalgia gamer 😄, me chama.
+
+<div>
+  <a href = "mailto:orafael49@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-oliveira-b85ab0347" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 
