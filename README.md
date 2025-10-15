@@ -65,7 +65,7 @@ Tenho paixão por resolver problemas, aprender novas tecnologias e ajudar pessoa
 
 ## 📬 Onde me encontrar
 
-Se quiser trocar uma ideia sobre tecnologia, projetos, ensino ou até nostalgia gamer 😄, me chama.
+Se quiser trocar uma ideia sobre tecnologia, me chama.
 
 <div>
   <a href = "mailto:orafael49@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
