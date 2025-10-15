@@ -24,6 +24,7 @@ Tenho paixão por resolver problemas, aprender novas tecnologias e ajudar pessoa
 </div>
 
 ---
+
 ## 🧰 Tecnologias e ferramentas
 
 <div>
@@ -31,6 +32,7 @@ Tenho paixão por resolver problemas, aprender novas tecnologias e ajudar pessoa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS 3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code"/>
 </div>
+
 ---
 
 ## 💡 Conhecimentos e Habilidades
